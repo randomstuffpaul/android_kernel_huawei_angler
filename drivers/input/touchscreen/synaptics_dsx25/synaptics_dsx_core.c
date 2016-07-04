@@ -102,7 +102,7 @@
 #define DSX_VBUS_VTG_MIN_VN1 1850000
 #define DSX_VBUS_VTG_MAX_VN1 1850000
 
-#define VIBRATE_STRENGTH 20
+#define VIBRATE_STRENGTH 40
 
 static bool wakeup_gesture_changed = false;
 static bool wakeup_gesture_temp;
